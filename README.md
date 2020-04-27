@@ -6,7 +6,7 @@ Perform Spotlight search from LaunchBar
 
 #### Install
 
-- Download zip file and open *Spotlight.lbaction*
+- Download and unzip, rename the folder to *Spotlight.lbaction* and install it by double click.
 
 
 #### Requirement
